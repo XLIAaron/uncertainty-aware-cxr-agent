@@ -1,7 +1,7 @@
 # uncertainty-aware-cxr-agent
 Official implementation of [**AT-CXR**: Uncertainty-Aware Agentic Triage for Chest X-rays](https://arxiv.org/abs/2508.19322).
 
-> **Status:** We are actively updating this repository. **User instructions**, **trained weights**, and a **demo notebook** will be uploaded soon.
+> **Status:** Our work is currently under review. **User instructions**, **trained weights**, and a **demo notebook** will be uploaded once accepted.
 
 ## Overview
 AT-CXR is an uncertainty-aware agent that performs selective automation for CXR triage with guardrails, optional routing to TTA/MoE/VLM, and post-accept utilities.
